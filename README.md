@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring tech stack.
 - 🌱 I’m currently learning Rust Programming 
 - 💞️ I’m looking to collaborate on exciting project.
-- 📫 How to reach me 
+- 📫 How to reach me [link](https://github.com/now-not-how)
 - 😄 Pronouns: Sahil
 
 <!---
